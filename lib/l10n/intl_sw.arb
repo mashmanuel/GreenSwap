@@ -1,0 +1,11 @@
+{
+  "@@locale": "sw",
+  "appTitle": "GreenSwap",
+  "login": "Ingia",
+  "signup": "Jisajili",
+  "email": "Barua pepe",
+  "password": "Nenosiri",
+  "addItem": "Ongeza Bidhaa",
+  "logout": "Toka",
+  "itemHint": "Ingiza jina la bidhaa"
+}

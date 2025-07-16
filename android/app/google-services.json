@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795800300495",
+    "project_id": "greenswap-a3ad5",
+    "storage_bucket": "greenswap-a3ad5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795800300495:android:902717cd30ce013e8040ba",
+        "android_client_info": {
+          "package_name": "com.example.greenswap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_0ZOoLQTgfCVYe0OibgdOAGymI7SdWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

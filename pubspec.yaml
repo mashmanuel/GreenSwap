@@ -1,0 +1,29 @@
+name: greenswap
+description: A simple Flutter app for swapping and donating items (GreenSwap)
+publish_to: "none" # Remove this line if you plan to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # State management
+  provider: ^6.1.2
+  # Firebase core
+  firebase_core: ^2.31.0
+  # Firebase Auth
+  firebase_auth: ^4.17.0
+  # Cloud Firestore
+  cloud_firestore: ^4.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
