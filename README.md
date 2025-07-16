@@ -63,11 +63,13 @@ lib/
 ├── models/          # Item data models
 ├── l10n/            # Internationalization files
 └── main.dart        # App entry point
+---
 🌍 Internationalization
 
     English (intl_en.arb)
 
     Swahili (intl_sw.arb)
+---
 🚀 Roadmap
 
     ✅ MVP: Auth, list & browse items
@@ -77,10 +79,12 @@ lib/
     🔜 Verified user badges
 
     🔜 NGO and donation pickup integration
+---
 🤝 Contributing
 
 Pull requests are welcome!
 Open an issue first to discuss changes or features.
+---
 
 🌱 Join the Movement
 
